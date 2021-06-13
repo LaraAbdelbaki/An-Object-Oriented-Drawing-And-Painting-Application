@@ -80,3 +80,9 @@ Implementation
 Our implementation resides in the Action class, which contains two static stacks of Action
 accessed by both maingGui and Canvas class. Thus, we can modify the Action stacks by
 methods in the same Action class, and this way, we have achieved a Composite pattern
+
+
+
+
+
+Credits to Lara Abdelbaki and Nour Hesham
