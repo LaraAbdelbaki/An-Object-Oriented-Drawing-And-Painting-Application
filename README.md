@@ -1,2 +1,0 @@
-# An-Object-Oriented-Drawing-And-Painting-Application
-This design is to achieve a painting program, giving the user a variety of possibilities to draw shapes, color them and apply changes. User is only prompted to use his mouse and imagination to create the desired image. The user has a variety of tools he can use such as resize, copy, move, change color all with an undo-redo feature to make the program the most user friendly.
